@@ -1,0 +1,11 @@
+{
+  "webapi_url": "http://127.0.0.1:11080/api/v1",
+  "identidade": "aluno",
+  "chave_privada": "C:/ProgramData/Veyon/keys/private/aluno/key",
+  "intervalo_minutos": 5,
+  "retencao_dias": 7,
+  "computadores": [
+    {"id": "NOTE01", "nome": "NOTE 01", "host": "ECE210N01SN1"},
+    {"id": "NOTE03", "nome": "NOTE 03", "host": "ECE210N03SN1"}
+  ]
+}

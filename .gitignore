@@ -1,0 +1,10 @@
+# Ambiente virtual e Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Dados gerados em execucao e capturas
+veyon_python_3/data/historico.sqlite3
+veyon_python_3/data/capturas/
+*.sqlite3
+*.jpg
